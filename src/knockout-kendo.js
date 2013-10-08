@@ -50,6 +50,8 @@ kendo = kendo || window.kendo;
 
 //import "knockout-kendoSlider.js"
 
+//import "knockout-kendoSparkline.js"
+
 //import "knockout-kendoSplitter.js"
 
 //import "knockout-kendoTabStrip.js"
